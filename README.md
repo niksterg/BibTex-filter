@@ -12,7 +12,7 @@ Requirements:
     
 Install requirements with: 
 
-    pip install bibtexparser or conda install -c conda-forge bibtexparser
+    pip install bibtexparser     or     conda install -c conda-forge bibtexparser
 
 # # 
 
